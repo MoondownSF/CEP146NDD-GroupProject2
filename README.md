@@ -1,4 +1,4 @@
-# **CEP146NDD-GroupProject1**
+# **CEP146NDD-GroupProject2**
 
 ---
-## CEP146NDD groupwork - Project 1 
+## CEP146NDD groupwork - Project 2
