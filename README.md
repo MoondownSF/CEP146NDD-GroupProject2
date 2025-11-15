@@ -1,2 +1,4 @@
-# CEP146NDD-GroupProject2
-A group assignment about an AI topic
+# **CEP146NDD-GroupProject1**
+
+---
+## CEP146NDD groupwork - Project 1 
