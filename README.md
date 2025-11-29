@@ -28,8 +28,8 @@ Link: [Click here to visit Video]()
 
 
 ## research notes
-- Source #1: <Title> | <URL> | <Date> | <1-line takeaway>
-- Source #2: <Title> | <URL> | <Date> | <1-line takeaway>
+- Source #1: AUTOMATIC1111 stable diffusion webui GitHub repository | [AUTOMATIC111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | <Date> | Official project page for the local WebUI setup and usage
+- Source #2: Pricing page for an online AI image generation tool we compared | [Artlist](https://artlist.io/page/pricing/max) | <Date> | Evidence for the subscription or credit cost used in our price comparison
 - Source #3: <Title> | <URL> | <Date> | <1-line takeaway>
 
 ### License
