@@ -12,7 +12,7 @@ Open source AI tools that we can run on our own laptops as a cheaper alternative
 | Name | GitHub | Primary responsibility | Presentation segment / timecodes |
 |---|---|---|---|
 | **Amthal Rezia Rasha** | **@AmthalRasha02** | Slides owner（Before → After） | **0:00–0:35** Intro & “introduction” |
-| **<name>** | **<id>** | Script owner (talk track / workflow / speaker notes) | **0:36–1:36** Workflow  |
+| **Artyom.Panyukov** | **@Apanyukov171** | Script owner (talk track / workflow / speaker notes) | **0:36–1:36** Workflow  |
 | **Fei Shen** | **@MoondownSF** | Demo owner（30s: , tests + lint） | **1:37–2:17** Mini demo |
 | **<name>** | **<id>** | Summary&Question  | **2:17–2:57**  Summary & Final Question |
 
