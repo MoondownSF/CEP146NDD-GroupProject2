@@ -14,7 +14,7 @@ Open source AI tools that we can run on our own laptops as a cheaper alternative
 | **Amthal Rezia Rasha** | **@AmthalRasha02** | Slides owner（Before → After） | **0:00–0:35** Intro & “introduction” |
 | **Artyom.Panyukov** | **@Apanyukov171** | Script owner (talk track / workflow / speaker notes) | **0:36–1:36** Workflow  |
 | **Fei Shen** | **@MoondownSF** | Demo owner（30s: , tests + lint） | **1:37–2:17** Mini demo |
-| **<name>** | **<id>** | Summary&Question  | **2:17–2:57**  Summary & Final Question |
+| **Benny Tran** | **@BennyTran04** | Summary&Question  | **2:17–2:57**  Summary & Final Question |
 
 ## Summary
 Our idea for our AI current event project is to talk about how open source AI tools that run on your own computer are becoming an alternative to expensive commercial AI apps.
