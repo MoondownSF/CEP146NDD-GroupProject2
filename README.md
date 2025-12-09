@@ -29,8 +29,8 @@ Link: [Click here to visit Video](https://youtu.be/Nyy93SOh9Z0)
 
 
 ## research notes
-- Source #1: AUTOMATIC1111 stable diffusion webui GitHub repository | [AUTOMATIC111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | <Date> | Official project page for the local WebUI setup and usage
-- Source #2: Pricing page for an online AI image generation tool we compared | [Artlist](https://artlist.io/page/pricing/max) | <Date> | Evidence for the subscription or credit cost used in our price comparison
+- Source #1: AUTOMATIC1111 stable diffusion webui GitHub repository | [AUTOMATIC111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Official project page for the local WebUI setup and usage
+- Source #2: Pricing page for an online AI image generation tool we compared | [Artlist](https://artlist.io/page/pricing/max) | Evidence for the subscription or credit cost used in our price comparison
 
 ### License
 MIT
